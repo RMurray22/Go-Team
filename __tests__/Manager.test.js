@@ -3,7 +3,7 @@ const Manager = require("../lib/Manager");
 test("Can create an office number.", () => {
   const testOfficeNumber = 2;
   const employeeInstance = new Manager(
-    "Revan",
+    "Spiffing Brit",
     2,
     "reannu.keeves22@gmail.com",
     testOfficeNumber
@@ -14,7 +14,7 @@ test("Can create an office number.", () => {
 test("Testing officeNumber will return office number.", () => {
   const testOfficeNumber = 2;
   const employeeInstance = new Manager(
-    "Revan",
+    "Spiffing Brit",
     2,
     "reannu.keeves22@gmail.com",
     testOfficeNumber
@@ -25,7 +25,7 @@ test("Testing officeNumber will return office number.", () => {
 test("Testing role.", () => {
   const returnValue = "Manager";
   const employeeInstance = new Manager(
-    "Revan",
+    "Spiffing Brit",
     2,
     "reannu.keeves22@gmail.com",
     2
