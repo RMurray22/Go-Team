@@ -41,7 +41,7 @@ THEN I exit the application, and the HTML is generated
 
 This is a screenshot of the generated HTML webpage.
 
-![Team Generator HTML Webpage Screenshot](./assets/Screenshot%202023-05-04%20at%206.30.41%20PM.png)
+![Team Generator HTML Webpage Screenshot](./assets/Screenshot%202023-05-04%20at%208.41.48%20PM.png)
 
 ## Walkthrough Video
 
